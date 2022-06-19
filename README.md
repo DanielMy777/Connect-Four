@@ -28,3 +28,8 @@ A player has the ability to:
   `2. Run the solution file on your prefered IDE.`
   
   `3. Apply your settings and start playing!`
+  
+# Contributors
+
+* Daniel Malky
+* Mor Yaakov ([Github Profile](https://github.com/Mor-Yaakov))
